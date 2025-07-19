@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "《樱花，萌放。》Nintendo Switch 简体中文汉化补丁",
-  description: "《樱花，萌放。》Nintendo Switch 简体中文汉化补丁",
+  title: "《樱花、萌放。-as the Night's, Reincarnation-》Nintendo Switch 简体中文汉化补丁",
+  description: "《樱花、萌放。-as the Night's, Reincarnation-》Nintendo Switch 简体中文汉化补丁",
+  keywords: "樱花、萌放。, 汉化, 补丁, Nintendo Switch, 简体中文, 摸鱼, 漆原雪人, FAVORITE",
 };
 
 export default function RootLayout({

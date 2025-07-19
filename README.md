@@ -1,4 +1,4 @@
-# 《樱花，萌放。-as the Night's, Reincarnation-》Nintendo Switch 简体中文汉化补丁
+# 《樱花、萌放。-as the Night's, Reincarnation-》Nintendo Switch 简体中文汉化补丁
 
 ---
 
@@ -52,7 +52,7 @@
 中文文本以 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。
 
 1.  文本仅仅作为原作品的注解，并非作为原作品的授权翻译。
-2.  《樱花，萌放。-as the Night's, Reincarnation-》Nintendo Switch 版本的著作权属于 **FAVORITE / ENTERGRAM**，编辑者与 FAVORITE / ENTERGRAM **没有任何联系**。
+2.  《樱花、萌放。-as the Night's, Reincarnation-》Nintendo Switch 版本的著作权属于 **FAVORITE / ENTERGRAM**，编辑者与 FAVORITE / ENTERGRAM **没有任何联系**。
 3.  如果发布的文本内容侵犯了您的版权，请联系我们删除。
 
 如果您希望发布衍生文本，请遵循 CC-BY-NC-SA 4.0 协议的要求，并注明所做的修改内容。如衍生文本涉及某些争议性内容，请务必去除原编辑者的身份信息。
